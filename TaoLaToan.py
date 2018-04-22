@@ -1,1 +1,0 @@
-print("Thai Vinh Toan")
